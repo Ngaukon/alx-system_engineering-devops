@@ -1,2 +1,2 @@
-echo "0 string HOLBERTON Holberton data\n!:mime Holberton" > holberton && file -C -m holberton
-
+#!/bin/bash
+echo "0 string SCHOOL School data file" > school && file -C -m school
