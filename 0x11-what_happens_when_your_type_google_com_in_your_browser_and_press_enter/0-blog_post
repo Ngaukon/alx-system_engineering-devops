@@ -1,0 +1,19 @@
+Here's a brief and focused explanation of what happens when you type "https://www.google.com" into your browser:
+
+1. DNS Request: Your browser sends a request to a Domain Name System (DNS) server to translate "www.google.com" into an IP address.
+
+2. TCP/IP: Using the IP address obtained, your browser establishes a TCP (Transmission Control Protocol) connection to the server.
+
+3. Firewall: A firewall checks and manages incoming and outgoing network traffic, ensuring security and authorized access to the server.
+
+4. HTTPS/SSL: Secure Sockets Layer (SSL) or Transport Layer Security (TLS) encrypts the data exchanged between your browser and the server, protecting it from interception.
+
+5. Load-Balancer: If deployed, a load balancer distributes incoming requests across multiple servers to optimize performance and ensure high availability.
+
+6. Web Server: The web server (like Apache or Nginx) receives your request, retrieves the requested web pages or resources, and sends them back to your browser.
+
+7. Application Server: If the website includes dynamic content (e.g., interactive elements or user-specific data), an application server (like Node.js or Django) processes these requests.
+
+8. Database: For websites that rely on stored data (e.g., user profiles or product catalogs), a database (like MySQL or MongoDB) retrieves and manages this information.
+
+Each of these components plays a crucial role in delivering a secure, efficient, and interactive web browsing experience when accessing popular sites like Google.
