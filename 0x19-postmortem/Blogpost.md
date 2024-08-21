@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/ca7d925b-9c95-4a12-ba47-0e4f8a2f78c5)
 Issue Summary
 
 On August 15, 2024, from 2:30 PM to 4:15 PM EAT, WebNest experienced a partial outage that impacted approximately 40% of users. During this period, users encountered slow loading times and frequent "502 Bad Gateway" errors when trying to access the website. The root cause was traced to an overloaded Nginx server due to an unoptimized caching layer, which caused a bottleneck in traffic handling. The incident was identified through automated monitoring alerts and escalated to the DevOps team for resolution.
